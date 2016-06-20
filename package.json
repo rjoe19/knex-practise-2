@@ -1,0 +1,26 @@
+{
+  "name": "knex-practise-2",
+  "version": "1.0.0",
+  "description": "practising w/ using knex &amp; node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjoe19/knex-practise-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjoe19/knex-practise-2/issues"
+  },
+  "homepage": "https://github.com/rjoe19/knex-practise-2#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "knex": "^0.11.7",
+    "pg": "^5.1.0"
+  }
+}
